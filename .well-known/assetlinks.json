@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.anonymous.LakhaniVardaan",
+      "sha256_cert_fingerprints": [
+        "40:3D:3A:79:44:4B:15:B0:AD:75:D5:D7:12:CF:06:46:46:59:38:EF:53:D0:18:21:EB:4A:CF:75:2C:37:66:37"
+      ]
+    }
+  }
+]
